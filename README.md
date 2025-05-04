@@ -23,7 +23,7 @@ A web application that uses deep learning to detect and recognize faces in image
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone <https://github.com/kallo1103/face-recognition-web-app
 cd face-recognition-app
 ```
 
